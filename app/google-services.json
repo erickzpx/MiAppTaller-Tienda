@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114785787909",
+    "project_id": "miapptaller-43823",
+    "storage_bucket": "miapptaller-43823.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114785787909:android:4dc8c52d1d3725f281fc6c",
+        "android_client_info": {
+          "package_name": "com.example.miapptaller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNgm_C0d-ockZaSsqlmXSemv7U44m1q_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
